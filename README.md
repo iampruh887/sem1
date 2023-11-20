@@ -1,2 +1,2 @@
-# sem1
-semester 1 at iiitg
+# Sem1
+Semester-1 @ IIIT-Guwahati
